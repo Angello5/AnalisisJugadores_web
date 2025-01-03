@@ -1,7 +1,39 @@
 ﻿@page "/rankings"
+@inject PlayerService PlayerService
 
-<PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1> Player Rankings </h1>
 
-Welcome to your new app.
+@if (PlayerService == null){
+    <p>Cargando...</p>
+}else{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Name</th>
+                <th>Club</th>
+                <th>Overall Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var player in players){
+                <tr>
+                    <td>@player.Rank</td>
+                    <td>@player.Name</td>
+                    <td>@player.Club</td>
+                    <td>@player.OverallScore</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<PLayer> players;
+
+    protected override async Task OnInitializedAsync()
+    {
+        players = await PlayerService.GetRankingAsync();
+    }
+}
