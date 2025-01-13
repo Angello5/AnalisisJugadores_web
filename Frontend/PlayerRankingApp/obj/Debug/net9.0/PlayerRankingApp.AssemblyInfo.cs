@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlayerRankingApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef3fe2f7699a4766a222b42201201045bda40a04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0f435d33e39a840fc608661697312a100c7e020")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlayerRankingApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlayerRankingApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

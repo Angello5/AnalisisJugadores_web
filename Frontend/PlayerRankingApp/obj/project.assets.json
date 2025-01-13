@@ -1750,6 +1750,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "Microsoft.AspNetCore.Components.Web >= 9.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 9.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 9.0.0",
       "Microsoft.NET.ILLink.Tasks >= 9.0.0",
@@ -1799,6 +1800,10 @@
       "net9.0": {
         "targetAlias": "net9.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": {
+            "target": "Package",
+            "version": "[9.0.0, )"
+          },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
             "version": "[9.0.0, )"

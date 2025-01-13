@@ -576,17 +576,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yqdn6ifuae"},{"Name":"integrity","Value":"sha256-WmMJeJnX\u002BxJvHBlcCm9V/xIQIB/IPcSNBVoMlZkTx5E="},{"Name":"label","Value":"lib/bootstrap/dist/js/bootstrap.min.js.map"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"220561"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022WmMJeJnX\u002BxJvHBlcCm9V/xIQIB/IPcSNBVoMlZkTx5E=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 21:21:01 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="PlayerRankingApp.hhkvs41s6z.styles.css">
+    <StaticWebAssetEndpoint Include="PlayerRankingApp.p7j2w2mibu.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PlayerRankingApp.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hhkvs41s6z"},{"Name":"integrity","Value":"sha256-dbXOz5Qy48cyt36WSezy6gPfK/82AxsGUOUPISDbRKg="},{"Name":"label","Value":"PlayerRankingApp.styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4491"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dbXOz5Qy48cyt36WSezy6gPfK/82AxsGUOUPISDbRKg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 21:21:01 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p7j2w2mibu"},{"Name":"integrity","Value":"sha256-xRXK13jkQU8UXKeuOYnhjVuoLLz644qfKpp\u002BEhm5rJ4="},{"Name":"label","Value":"PlayerRankingApp.styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4491"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xRXK13jkQU8UXKeuOYnhjVuoLLz644qfKpp\u002BEhm5rJ4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 22:12:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="PlayerRankingApp.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PlayerRankingApp.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dbXOz5Qy48cyt36WSezy6gPfK/82AxsGUOUPISDbRKg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4491"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dbXOz5Qy48cyt36WSezy6gPfK/82AxsGUOUPISDbRKg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 21:21:01 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xRXK13jkQU8UXKeuOYnhjVuoLLz644qfKpp\u002BEhm5rJ4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4491"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xRXK13jkQU8UXKeuOYnhjVuoLLz644qfKpp\u002BEhm5rJ4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 22:12:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="sample-data/weather.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sample-data\weather.json'))</AssetFile>
