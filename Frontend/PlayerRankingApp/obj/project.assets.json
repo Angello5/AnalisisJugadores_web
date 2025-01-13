@@ -1757,32 +1757,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marcelo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/angellollerena/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marcelo\\AnalisisJugadores_web\\Frontend\\PlayerRankingApp\\PlayerRankingApp.csproj",
+      "projectUniqueName": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/PlayerRankingApp.csproj",
       "projectName": "PlayerRankingApp",
-      "projectPath": "C:\\Users\\marcelo\\AnalisisJugadores_web\\Frontend\\PlayerRankingApp\\PlayerRankingApp.csproj",
-      "packagesPath": "C:\\Users\\marcelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marcelo\\AnalisisJugadores_web\\Frontend\\PlayerRankingApp\\obj\\",
+      "projectPath": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/PlayerRankingApp.csproj",
+      "packagesPath": "/Users/angellollerena/.nuget/packages/",
+      "outputPath": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/angellollerena/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1851,7 +1843,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

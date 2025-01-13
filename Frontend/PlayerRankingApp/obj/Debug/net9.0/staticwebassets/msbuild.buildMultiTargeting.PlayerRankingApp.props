@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\PlayerRankingApp.props" />
+  <Import Project="../build/PlayerRankingApp.props" />
 </Project>
