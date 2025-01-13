@@ -580,13 +580,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PlayerRankingApp.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p7j2w2mibu"},{"Name":"integrity","Value":"sha256-xRXK13jkQU8UXKeuOYnhjVuoLLz644qfKpp\u002BEhm5rJ4="},{"Name":"label","Value":"PlayerRankingApp.styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4491"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xRXK13jkQU8UXKeuOYnhjVuoLLz644qfKpp\u002BEhm5rJ4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 22:12:14 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4491"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xRXK13jkQU8UXKeuOYnhjVuoLLz644qfKpp\u002BEhm5rJ4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 22:14:38 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="PlayerRankingApp.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PlayerRankingApp.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xRXK13jkQU8UXKeuOYnhjVuoLLz644qfKpp\u002BEhm5rJ4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4491"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xRXK13jkQU8UXKeuOYnhjVuoLLz644qfKpp\u002BEhm5rJ4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 22:12:14 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4491"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xRXK13jkQU8UXKeuOYnhjVuoLLz644qfKpp\u002BEhm5rJ4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 22:14:38 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="sample-data/weather.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sample-data\weather.json'))</AssetFile>
