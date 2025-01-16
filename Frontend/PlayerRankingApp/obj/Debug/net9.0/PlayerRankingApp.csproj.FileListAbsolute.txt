@@ -1122,6 +1122,8 @@ C:/Users/marcelo/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Win32.Registry.yqsrs1xmzk.wasm
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/mscorlib.o0184ey5ia.wasm
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/netstandard.hb3h2rr8mk.wasm
+/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.2d5vbafdug.pdb
+/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.g7t21rd6mz.wasm
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.AppContext.rb3sudfxx6.wasm
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.Buffers.ijnujodfj9.wasm
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.Collections.Concurrent.xuu1t5r6su.wasm
@@ -1412,6 +1414,7 @@ C:/Users/marcelo/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.nvgouoxibi.wasm.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.Threading.Timer.yf2iqnmdhk.wasm.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.Tools.zgykqiy9oc.wasm.gz
+/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.g7t21rd6mz.wasm.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.Extensions.yo3ubi9zg3.wasm.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.Collections.uiz1v0ys5y.wasm.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.8r1tzxyzhv.wasm.gz
@@ -1422,6 +1425,7 @@ C:/Users/marcelo/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.Net.Primitives.ab5tpb98fw.wasm.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.Loader.776e462s17.wasm.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/WindowsBase.377bly7twj.wasm.gz
+/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.2d5vbafdug.pdb.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/dotnet.native.hmanx9razn.js.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.pvxa4wu5tg.wasm.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.IO.y1kfh9sy1k.wasm.gz
@@ -1943,8 +1947,8 @@ C:/Users/marcelo/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/o22m2xuk7h-yqdn6ifuae.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/juebzy283i-vnc9dmv67p.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/8ny30yck2c-yiodnjoszm.gz
-/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/pncg7enb7i-p7j2w2mibu.gz
-/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/v1u4u53hfd-p7j2w2mibu.gz
+/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/pncg7enb7i-n12upojtgk.gz
+/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/v1u4u53hfd-n12upojtgk.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/oz15p0glfx-qe23mgxr71.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/ig4l6ubj74-flveird317.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/f4k1zlei0g-thhw8cz9wu.gz
@@ -2145,6 +2149,9 @@ C:/Users/marcelo/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/gpnmgl3mtr-tjcz0u77k5.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/t8lfkmyqdf-tptq2av103.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/g10uxhwd41-lfu7j35m59.gz
+/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-g7t21rd6mz.gz
+/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-2d5vbafdug.gz
+/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/l0sbgyvccs-pl7vpbfuvj.gz
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/staticwebassets.build.json
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/staticwebassets.development.json
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -2159,10 +2166,3 @@ C:/Users/marcelo/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/refint/PlayerRankingApp.dll
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/PlayerRankingApp.pdb
 /Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/ref/PlayerRankingApp.dll
-/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.gnbor5e3g6.pdb
-/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.ey46jvu551.wasm
-/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.ey46jvu551.wasm.gz
-/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.gnbor5e3g6.pdb.gz
-/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-ey46jvu551.gz
-/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-gnbor5e3g6.gz
-/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/l0sbgyvccs-isvf1bolra.gz

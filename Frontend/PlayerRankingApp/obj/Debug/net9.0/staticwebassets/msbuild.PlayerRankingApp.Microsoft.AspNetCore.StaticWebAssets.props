@@ -876,8 +876,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>p7j2w2mibu</Fingerprint>
-      <Integrity>xRXK13jkQU8UXKeuOYnhjVuoLLz644qfKpp+Ehm5rJ4=</Integrity>
+      <Fingerprint>n12upojtgk</Fingerprint>
+      <Integrity>2+4Qo/51ORAm2V00Aav20nBIWDUeuCg/MzBvcYWLCd4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PlayerRankingApp.styles.css'))</OriginalItemSpec>

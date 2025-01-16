@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PlayerRankingApp",
   "resources": {
-    "hash": "sha256-slaQuWQNiVtpfciLj48InHA80I3YUH30Shpj1T3npXY=",
+    "hash": "sha256-x0PmMtnuExHnuKLXxGW/kiaC+tuWqMeC2pSOGjWOnxU=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "PlayerRankingApp.ey46jvu551.wasm": "PlayerRankingApp.wasm",
-      "PlayerRankingApp.gnbor5e3g6.pdb": "PlayerRankingApp.pdb"
+      "PlayerRankingApp.g7t21rd6mz.wasm": "PlayerRankingApp.wasm",
+      "PlayerRankingApp.2d5vbafdug.pdb": "PlayerRankingApp.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -412,10 +412,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "PlayerRankingApp.ey46jvu551.wasm": "sha256-lk3pWeuCeeUlpXgu6IPJCZTK1CSIVIaGqhfJn4eGJrE="
+      "PlayerRankingApp.g7t21rd6mz.wasm": "sha256-XD3GPWGXAOlcOmAyRJn52jhWhnyRCyaFpwvMeFIbyGw="
     },
     "pdb": {
-      "PlayerRankingApp.gnbor5e3g6.pdb": "sha256-BOBfdm7FXznANA6waAx4Qs1tNoeocwTPVmUW5fQMREs="
+      "PlayerRankingApp.2d5vbafdug.pdb": "sha256-5q+zprgVNxYjU1CcvhQYgV3qVZNktsCD5X6cAKbxDoY="
     }
   },
   "cacheBootResources": true,
