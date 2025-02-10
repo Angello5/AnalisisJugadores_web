@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M/Q+1HrIMYxuxcEaIcPjovKQPF5VlOPfamDZ3u/30CY=",
+  "Hash": "MWEeWBX+xTI2tIFngNrL7z2/CO2+Pv1Y5T/R1IjCFs4=",
   "Source": "PlayerRankingApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "pl7vpbfuvj",
-      "Integrity": "w5Lr0Lr5PAOJKJCoNBMDrlrg6A04x2EBdm6N+mekESY=",
+      "Fingerprint": "3k4gvdznen",
+      "Integrity": "7cHe8MfUUoenY39/ePKsUfJnPkI+shhkoYcR5SVsiHc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "2d5vbafdug",
-      "Integrity": "5q+zprgVNxYjU1CcvhQYgV3qVZNktsCD5X6cAKbxDoY=",
+      "Fingerprint": "lxl2q15lz1",
+      "Integrity": "d5b7xk97xQ3gcO3qm2xOM8F7GaWWD/W6lF6tgVlZDE0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/PlayerRankingApp.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "g7t21rd6mz",
-      "Integrity": "XD3GPWGXAOlcOmAyRJn52jhWhnyRCyaFpwvMeFIbyGw=",
+      "Fingerprint": "tw428398jn",
+      "Integrity": "o/Z4zWDF4w69uu1Uk5wtTLxX1X5Kana9++B2b2R6bM8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/webcil/PlayerRankingApp.wasm"
@@ -7598,12 +7598,12 @@
       "OriginalItemSpec": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.Tools.wasm"
     },
     {
-      "Identity": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-g7t21rd6mz.gz",
+      "Identity": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-tw428398jn.gz",
       "SourceId": "PlayerRankingApp",
       "SourceType": "Computed",
       "ContentRoot": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/PlayerRankingApp#[.{fingerprint=g7t21rd6mz}]!.wasm.gz",
+      "RelativePath": "_framework/PlayerRankingApp#[.{fingerprint=tw428398jn}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7612,8 +7612,8 @@
       "RelatedAsset": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wkbgk7qrqq",
-      "Integrity": "oA4xATGfl9sKAHVaFVSV7Or4ZxCs7YH87IIPHRAC87w=",
+      "Fingerprint": "ou5wajosu9",
+      "Integrity": "YCRE7W7RYq2lloJgYHf2vKnFVK0kr4y8V8dLe5+WL+A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.wasm"
@@ -7703,7 +7703,7 @@
       "OriginalItemSpec": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/System.Security.AccessControl.wasm"
     },
     {
-      "Identity": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/l0sbgyvccs-pl7vpbfuvj.gz",
+      "Identity": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/l0sbgyvccs-3k4gvdznen.gz",
       "SourceId": "PlayerRankingApp",
       "SourceType": "Computed",
       "ContentRoot": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/",
@@ -7717,8 +7717,8 @@
       "RelatedAsset": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6txwvp63z7",
-      "Integrity": "1unPE1LQPPjvtUn0UCP5R0UJmK1KkBFBxPBA9L1u/Ms=",
+      "Fingerprint": "e14ux0w045",
+      "Integrity": "Ds+yo8jLHk2m/ZPcN5JIJD7TPlSGtz/u39juw1958A8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -7850,12 +7850,12 @@
       "OriginalItemSpec": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/WindowsBase.wasm"
     },
     {
-      "Identity": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-2d5vbafdug.gz",
+      "Identity": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-lxl2q15lz1.gz",
       "SourceId": "PlayerRankingApp",
       "SourceType": "Computed",
       "ContentRoot": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/PlayerRankingApp#[.{fingerprint=2d5vbafdug}]!.pdb.gz",
+      "RelativePath": "_framework/PlayerRankingApp#[.{fingerprint=lxl2q15lz1}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7864,8 +7864,8 @@
       "RelatedAsset": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pk8yx9ae86",
-      "Integrity": "F/u7FXzU807HvD2uTYWau146wVtqqisWcwaKFvNwg7g=",
+      "Fingerprint": "pxw3pg68xr",
+      "Integrity": "fSKX+mWeCPYmD5almLFgLhYbhPGXDxoYWFAYiZB4S2U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.pdb"
@@ -10705,7 +10705,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w5Lr0Lr5PAOJKJCoNBMDrlrg6A04x2EBdm6N+mekESY=\""
+          "Value": "\"7cHe8MfUUoenY39/ePKsUfJnPkI+shhkoYcR5SVsiHc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 22:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7cHe8MfUUoenY39/ePKsUfJnPkI+shhkoYcR5SVsiHc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/l0sbgyvccs-3k4gvdznen.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081228170"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12310"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ds+yo8jLHk2m/ZPcN5JIJD7TPlSGtz/u39juw1958A8=\""
         },
         {
           "Name": "Last-Modified",
@@ -10714,45 +10753,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-w5Lr0Lr5PAOJKJCoNBMDrlrg6A04x2EBdm6N+mekESY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/l0sbgyvccs-pl7vpbfuvj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081234768"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12309"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1unPE1LQPPjvtUn0UCP5R0UJmK1KkBFBxPBA9L1u/Ms=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"w5Lr0Lr5PAOJKJCoNBMDrlrg6A04x2EBdm6N+mekESY=\""
+          "Value": "W/\"7cHe8MfUUoenY39/ePKsUfJnPkI+shhkoYcR5SVsiHc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w5Lr0Lr5PAOJKJCoNBMDrlrg6A04x2EBdm6N+mekESY="
+          "Value": "sha256-7cHe8MfUUoenY39/ePKsUfJnPkI+shhkoYcR5SVsiHc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/l0sbgyvccs-pl7vpbfuvj.gz",
+      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/l0sbgyvccs-3k4gvdznen.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12309"
+          "Value": "12310"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1unPE1LQPPjvtUn0UCP5R0UJmK1KkBFBxPBA9L1u/Ms=\""
+          "Value": "\"Ds+yo8jLHk2m/ZPcN5JIJD7TPlSGtz/u39juw1958A8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:41 GMT"
+          "Value": "Tue, 14 Jan 2025 16:53:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1unPE1LQPPjvtUn0UCP5R0UJmK1KkBFBxPBA9L1u/Ms="
+          "Value": "sha256-Ds+yo8jLHk2m/ZPcN5JIJD7TPlSGtz/u39juw1958A8="
         }
       ]
     },
@@ -22285,7 +22285,7 @@
       ]
     },
     {
-      "Route": "_framework/PlayerRankingApp.2d5vbafdug.pdb",
+      "Route": "_framework/PlayerRankingApp.lxl2q15lz1.pdb",
       "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22303,11 +22303,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5q+zprgVNxYjU1CcvhQYgV3qVZNktsCD5X6cAKbxDoY=\""
+          "Value": "\"d5b7xk97xQ3gcO3qm2xOM8F7GaWWD/W6lF6tgVlZDE0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:40 GMT"
+          "Value": "Thu, 16 Jan 2025 22:34:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22317,7 +22317,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2d5vbafdug"
+          "Value": "lxl2q15lz1"
         },
         {
           "Name": "label",
@@ -22325,13 +22325,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5q+zprgVNxYjU1CcvhQYgV3qVZNktsCD5X6cAKbxDoY="
+          "Value": "sha256-d5b7xk97xQ3gcO3qm2xOM8F7GaWWD/W6lF6tgVlZDE0="
         }
       ]
     },
     {
-      "Route": "_framework/PlayerRankingApp.2d5vbafdug.pdb",
-      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-2d5vbafdug.gz",
+      "Route": "_framework/PlayerRankingApp.lxl2q15lz1.pdb",
+      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-lxl2q15lz1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -22350,11 +22350,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F/u7FXzU807HvD2uTYWau146wVtqqisWcwaKFvNwg7g=\""
+          "Value": "\"fSKX+mWeCPYmD5almLFgLhYbhPGXDxoYWFAYiZB4S2U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:41 GMT"
+          "Value": "Thu, 16 Jan 2025 22:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22374,13 +22374,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5q+zprgVNxYjU1CcvhQYgV3qVZNktsCD5X6cAKbxDoY=\""
+          "Value": "W/\"d5b7xk97xQ3gcO3qm2xOM8F7GaWWD/W6lF6tgVlZDE0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2d5vbafdug"
+          "Value": "lxl2q15lz1"
         },
         {
           "Name": "label",
@@ -22388,13 +22388,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5q+zprgVNxYjU1CcvhQYgV3qVZNktsCD5X6cAKbxDoY="
+          "Value": "sha256-d5b7xk97xQ3gcO3qm2xOM8F7GaWWD/W6lF6tgVlZDE0="
         }
       ]
     },
     {
-      "Route": "_framework/PlayerRankingApp.2d5vbafdug.pdb.gz",
-      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-2d5vbafdug.gz",
+      "Route": "_framework/PlayerRankingApp.lxl2q15lz1.pdb.gz",
+      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-lxl2q15lz1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22411,11 +22411,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F/u7FXzU807HvD2uTYWau146wVtqqisWcwaKFvNwg7g=\""
+          "Value": "\"fSKX+mWeCPYmD5almLFgLhYbhPGXDxoYWFAYiZB4S2U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:41 GMT"
+          "Value": "Thu, 16 Jan 2025 22:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22433,7 +22433,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2d5vbafdug"
+          "Value": "lxl2q15lz1"
         },
         {
           "Name": "label",
@@ -22441,168 +22441,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-F/u7FXzU807HvD2uTYWau146wVtqqisWcwaKFvNwg7g="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PlayerRankingApp.g7t21rd6mz.wasm",
-      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17173"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XD3GPWGXAOlcOmAyRJn52jhWhnyRCyaFpwvMeFIbyGw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g7t21rd6mz"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PlayerRankingApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XD3GPWGXAOlcOmAyRJn52jhWhnyRCyaFpwvMeFIbyGw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PlayerRankingApp.g7t21rd6mz.wasm",
-      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-g7t21rd6mz.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000137287205"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7283"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oA4xATGfl9sKAHVaFVSV7Or4ZxCs7YH87IIPHRAC87w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"XD3GPWGXAOlcOmAyRJn52jhWhnyRCyaFpwvMeFIbyGw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g7t21rd6mz"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PlayerRankingApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XD3GPWGXAOlcOmAyRJn52jhWhnyRCyaFpwvMeFIbyGw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PlayerRankingApp.g7t21rd6mz.wasm.gz",
-      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-g7t21rd6mz.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7283"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oA4xATGfl9sKAHVaFVSV7Or4ZxCs7YH87IIPHRAC87w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g7t21rd6mz"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/PlayerRankingApp.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oA4xATGfl9sKAHVaFVSV7Or4ZxCs7YH87IIPHRAC87w="
+          "Value": "sha256-fSKX+mWeCPYmD5almLFgLhYbhPGXDxoYWFAYiZB4S2U="
         }
       ]
     },
@@ -22625,11 +22464,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5q+zprgVNxYjU1CcvhQYgV3qVZNktsCD5X6cAKbxDoY=\""
+          "Value": "\"d5b7xk97xQ3gcO3qm2xOM8F7GaWWD/W6lF6tgVlZDE0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:40 GMT"
+          "Value": "Thu, 16 Jan 2025 22:34:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22639,13 +22478,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5q+zprgVNxYjU1CcvhQYgV3qVZNktsCD5X6cAKbxDoY="
+          "Value": "sha256-d5b7xk97xQ3gcO3qm2xOM8F7GaWWD/W6lF6tgVlZDE0="
         }
       ]
     },
     {
       "Route": "_framework/PlayerRankingApp.pdb",
-      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-2d5vbafdug.gz",
+      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-lxl2q15lz1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -22664,11 +22503,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F/u7FXzU807HvD2uTYWau146wVtqqisWcwaKFvNwg7g=\""
+          "Value": "\"fSKX+mWeCPYmD5almLFgLhYbhPGXDxoYWFAYiZB4S2U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:41 GMT"
+          "Value": "Thu, 16 Jan 2025 22:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22688,19 +22527,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5q+zprgVNxYjU1CcvhQYgV3qVZNktsCD5X6cAKbxDoY=\""
+          "Value": "W/\"d5b7xk97xQ3gcO3qm2xOM8F7GaWWD/W6lF6tgVlZDE0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5q+zprgVNxYjU1CcvhQYgV3qVZNktsCD5X6cAKbxDoY="
+          "Value": "sha256-d5b7xk97xQ3gcO3qm2xOM8F7GaWWD/W6lF6tgVlZDE0="
         }
       ]
     },
     {
       "Route": "_framework/PlayerRankingApp.pdb.gz",
-      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-2d5vbafdug.gz",
+      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/m78v6ssqg3-lxl2q15lz1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22717,11 +22556,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F/u7FXzU807HvD2uTYWau146wVtqqisWcwaKFvNwg7g=\""
+          "Value": "\"fSKX+mWeCPYmD5almLFgLhYbhPGXDxoYWFAYiZB4S2U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:41 GMT"
+          "Value": "Thu, 16 Jan 2025 22:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22739,7 +22578,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-F/u7FXzU807HvD2uTYWau146wVtqqisWcwaKFvNwg7g="
+          "Value": "sha256-fSKX+mWeCPYmD5almLFgLhYbhPGXDxoYWFAYiZB4S2U="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PlayerRankingApp.tw428398jn.wasm",
+      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/bin/Debug/net9.0/wwwroot/_framework/PlayerRankingApp.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o/Z4zWDF4w69uu1Uk5wtTLxX1X5Kana9++B2b2R6bM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 22:34:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tw428398jn"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PlayerRankingApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o/Z4zWDF4w69uu1Uk5wtTLxX1X5Kana9++B2b2R6bM8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PlayerRankingApp.tw428398jn.wasm",
+      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-tw428398jn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000137324911"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7281"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YCRE7W7RYq2lloJgYHf2vKnFVK0kr4y8V8dLe5+WL+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 22:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o/Z4zWDF4w69uu1Uk5wtTLxX1X5Kana9++B2b2R6bM8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tw428398jn"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PlayerRankingApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o/Z4zWDF4w69uu1Uk5wtTLxX1X5Kana9++B2b2R6bM8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PlayerRankingApp.tw428398jn.wasm.gz",
+      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-tw428398jn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YCRE7W7RYq2lloJgYHf2vKnFVK0kr4y8V8dLe5+WL+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 22:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tw428398jn"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/PlayerRankingApp.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YCRE7W7RYq2lloJgYHf2vKnFVK0kr4y8V8dLe5+WL+A="
         }
       ]
     },
@@ -22762,11 +22762,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XD3GPWGXAOlcOmAyRJn52jhWhnyRCyaFpwvMeFIbyGw=\""
+          "Value": "\"o/Z4zWDF4w69uu1Uk5wtTLxX1X5Kana9++B2b2R6bM8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:40 GMT"
+          "Value": "Thu, 16 Jan 2025 22:34:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22776,18 +22776,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XD3GPWGXAOlcOmAyRJn52jhWhnyRCyaFpwvMeFIbyGw="
+          "Value": "sha256-o/Z4zWDF4w69uu1Uk5wtTLxX1X5Kana9++B2b2R6bM8="
         }
       ]
     },
     {
       "Route": "_framework/PlayerRankingApp.wasm",
-      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-g7t21rd6mz.gz",
+      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-tw428398jn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000137287205"
+          "Quality": "0.000137324911"
         }
       ],
       "ResponseHeaders": [
@@ -22797,15 +22797,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7283"
+          "Value": "7281"
         },
         {
           "Name": "ETag",
-          "Value": "\"oA4xATGfl9sKAHVaFVSV7Or4ZxCs7YH87IIPHRAC87w=\""
+          "Value": "\"YCRE7W7RYq2lloJgYHf2vKnFVK0kr4y8V8dLe5+WL+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:41 GMT"
+          "Value": "Thu, 16 Jan 2025 22:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22825,19 +22825,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XD3GPWGXAOlcOmAyRJn52jhWhnyRCyaFpwvMeFIbyGw=\""
+          "Value": "W/\"o/Z4zWDF4w69uu1Uk5wtTLxX1X5Kana9++B2b2R6bM8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XD3GPWGXAOlcOmAyRJn52jhWhnyRCyaFpwvMeFIbyGw="
+          "Value": "sha256-o/Z4zWDF4w69uu1Uk5wtTLxX1X5Kana9++B2b2R6bM8="
         }
       ]
     },
     {
       "Route": "_framework/PlayerRankingApp.wasm.gz",
-      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-g7t21rd6mz.gz",
+      "AssetFile": "/Users/angellollerena/AnalisisJugadores_web/Frontend/PlayerRankingApp/obj/Debug/net9.0/compressed/krpnfir5np-tw428398jn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22846,7 +22846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7283"
+          "Value": "7281"
         },
         {
           "Name": "Content-Type",
@@ -22854,11 +22854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oA4xATGfl9sKAHVaFVSV7Or4ZxCs7YH87IIPHRAC87w=\""
+          "Value": "\"YCRE7W7RYq2lloJgYHf2vKnFVK0kr4y8V8dLe5+WL+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 16:52:41 GMT"
+          "Value": "Thu, 16 Jan 2025 22:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22876,7 +22876,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oA4xATGfl9sKAHVaFVSV7Or4ZxCs7YH87IIPHRAC87w="
+          "Value": "sha256-YCRE7W7RYq2lloJgYHf2vKnFVK0kr4y8V8dLe5+WL+A="
         }
       ]
     },
